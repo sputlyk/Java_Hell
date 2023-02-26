@@ -12,9 +12,9 @@ public class Card implements ActionListener
         frame = new Frame("Card Layout Demonstration");
         card = new CardLayout();
 
-        b1 = new Button("3020");
-        b2 = new Button("Farhan");
-        b3 = new Button("Student of SYIT RJ College");
+        b1 = new Button("1234");
+        b2 = new Button("Biggy");
+        b3 = new Button("Student of IT College");
 
         b1.setBounds(0, 35, 400, 250);
         b2.setBounds(0, 35, 400, 250);
